@@ -2,11 +2,25 @@
   <small>
     <!--The <a href="http://www.railstutorial.org/">Ruby on Rails Tutorial</a>
     by <a href="http://www.michaelhartl.com/">Michael Hartl</a>-->
+
   </small>
   <nav>
     <ul>
       <li><%= link_to "About",  about_path %></li>
       <li><%= link_to "Contact", contact_path %></li>
     </ul>
+    <ul>
+      <li><b>HOURS OF OPERATION</b><br/></br>Mon - Fri: 7AM - 6PM</li>
+    </ul>
+    <ul>
+      <li><%= link_to image_tag("logo.png", alt: "Site logo")%></li>
+    </ul>
   </nav>
+ <p>
+    <b>OUR ADDRESS</b>
+    <br/>
+    7800 Ogontz Avenue<br/>
+    Philadelphia, PA 19150<br/>
+    267-343-2365/215-254-4267<br/>
+</p>
 </footer>

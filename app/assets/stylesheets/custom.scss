@@ -59,17 +59,34 @@ p {
 #logo {
   float: left;
   margin-right: 10px;
+  max-height: 100%;
   font-size: 1.7em;
-  color: white;
+  color: purple;
   text-transform: uppercase;
   letter-spacing: -1px;
   padding-top: 9px;
   font-weight: bold;
   &:hover {
-    color: white;
+    color: black;
     text-decoration: none;
   }
 }
+
+.jumbotron {
+    
+    background: #000 url("/assets/homebanner.png") center center;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    
+}
+
+.navbar-default {
+  background-color: white;
+  color: white;
+  border-bottom: 1px solid purple;
+}
+
 
 /* footer */
 
@@ -78,6 +95,7 @@ footer {
   padding-top: 5px;
   border-top: 1px solid $gray-medium-light;
   color: $gray-light;
+  background-color: white;
   a {
     color: $gray;
     &:hover {
@@ -96,3 +114,12 @@ footer {
     }
   }
 }
+
+/* contact */
+
+contact {
+  font-size: 1.2em;
+}
+
+
+

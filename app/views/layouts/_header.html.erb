@@ -1,12 +1,12 @@
-<header class="navbar navbar-fixed-top navbar-inverse">
-      <div class="container">
-        <%= link_to "PLAYFUL MINDS ACADEMY", root_url, id: "logo" %>
+<header class="navbar navbar-fixed-top navbar-default">
+      <div class="container">      
+        <%= link_to image_tag("logo.png"), root_path, id: "logo" %>
         <nav>
           <ul class="nav navbar-nav navbar-right">
             <li><%= link_to "Home",   root_path %></li>
             <li><%= link_to "About",   about_path %></li>
-            <li><%= link_to "Forms", forms_path %></li>
-            <li><%= link_to "Contact", contact_path %></li>
+            <li><%= link_to "Forms", forms_path%></li>
+            <li><%= link_to "Contact", contact_path%></li>
           </ul>
         </nav>
       </div>
