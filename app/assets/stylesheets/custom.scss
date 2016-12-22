@@ -12,6 +12,7 @@ $gray-medium-light: #eaeaea;
 body {
   font-family: "Comfortaa", serif;
   padding-top: 60px;
+  margin-top: 35px;
 }
 
 section {
@@ -79,13 +80,14 @@ p {
 }
 
 .jumbotron {
-    
-    background: #000 url("/assets/homebanner.png") center center;
+    position: relative;
+    background: #000 url("/assets/homepic.png") center center;
     width: 100%;
     height: 100%;
     background-size: cover;
-    
+    overflow: hidden; 
 }
+
 .navbar-toggle {
     position: relative;
     float: right;
