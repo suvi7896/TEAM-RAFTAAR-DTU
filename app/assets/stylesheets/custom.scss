@@ -10,6 +10,8 @@ $gray-medium-light: #eaeaea;
 /* universal */
 
 body {
+  background-image: url("borderpic.png");
+  background-size: cover;
   font-family: "Comfortaa", serif;
   padding-top: 60px;
   margin-top: 35px;
@@ -103,11 +105,9 @@ p {
 /* home */
 
 #homepic {
-  border: 5px solid transparent;
+  border: 5px solid black;
   max-width: 100%;
-  padding-top: 5px;
-  padding-bottom: 10px;
-  padding-right: 4px;
+  margin-bottom: 20px;
 }
 
 .jumbotron {
