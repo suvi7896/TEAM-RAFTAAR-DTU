@@ -1,0 +1,35 @@
+<% provide(:title, "Contact") %>
+<h1>Contact Me</h1>
+
+<div class="row">
+  <div class="col-md-6 col-md-offset-3">
+    <%= form_for(@message, url: contact_path) do |f| %>
+      <% if @message.errors.any? %>
+        <div id="error_explanation">
+          <div class="alert alert-danger">
+            The form contains <%= pluralize(@message.errors.count, "error") %>.
+        </div>
+        <ul>
+      <% @message.errors.full_messages.each do |msg| %>
+        <li><%= msg %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+      <%= f.label :name %>
+      <%= f.text_field :name, class: 'form-control' %>
+
+      <%= f.label :email %>
+      <%= f.email_field :email, class: 'form-control' %>
+
+      <%= f.label :subject %>
+      <%= f.text_field :subject, class: 'form-control' %>
+
+      <%= f.label :content, "Message" %>
+      <%= f.text_area :content, :rows => "5", class: 'form-control' %>
+
+      <%= f.submit "Send Message", class: "btn btn-primary" %>
+    <% end %>
+  </div>
+</div>
