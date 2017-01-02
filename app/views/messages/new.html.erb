@@ -1,5 +1,5 @@
 <% provide(:title, "Contact") %>
-<h1>Contact Me</h1>
+<h1>Contact Us</h1>
 
 <div class="row">
   <div class="col-md-6 col-md-offset-3">
@@ -17,6 +17,27 @@
     </div>
   <% end %>
 
+  <body>
+    <div class="container">
+      <div class="pull-left">
+      <div class="col-md-12" style="margin:8px">
+        <contact class="contact">
+        <b>Tel:</b>
+        <a href="tel:267-343-2365">267-343-2365</a></br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="tel:215-254-4267">215-254-4267</a></br>
+        <br/>
+        <b>Email:</b> <a href="mailto:info@playfulmindsacademy.com">info@playfulmindsacademy.com</a>
+        <br/>
+        <br/>
+        <b>Address:</b><br/>
+        7800 Ogontz Ave.<br/>
+        Philadelphia, PA 19150
+        </contact>
+      </div>
+      </div>
+     </div>
+     </br>
+     <p><em>Leave a message below and we will respond shortly.</em></p></br>
       <%= f.label :name %>
       <%= f.text_field :name, class: 'form-control' %>
 
@@ -31,5 +52,6 @@
 
       <%= f.submit "Send Message", class: "btn btn-primary" %>
     <% end %>
-  </div>
 </div>
+</div>
+</body>
