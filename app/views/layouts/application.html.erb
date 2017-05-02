@@ -2,6 +2,8 @@
 <html>
   <head>
     <title><%= full_title(yield(:title)) %></title>
+    <%= favicon_link_tag '.ico' %>
+
     <%= csrf_meta_tags %>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
