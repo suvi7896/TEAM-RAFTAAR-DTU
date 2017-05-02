@@ -1,5 +1,5 @@
 # README
 
-Brochure website made with Ruby On Rails 5.
+Brochure website of Team Raftaar DTU made with Ruby On Rails 5.
 
 
