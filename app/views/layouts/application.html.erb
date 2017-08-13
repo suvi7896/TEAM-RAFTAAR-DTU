@@ -2,11 +2,11 @@
 <html>
   <head>
     <title><%= full_title(yield(:title)) %></title>
-    <%= favicon_link_tag '.ico' %>
+    <%= favicon_link_tag 'brochure_site-master/app/assets/images/rafav.ico' %>
 
     <%= csrf_meta_tags %>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track':'reload' %>
     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
     <%= render 'layouts/shim' %>
   </head>
