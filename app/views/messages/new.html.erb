@@ -1,0 +1,64 @@
+<% provide(:title, "Contact") %>
+<h1>Contact Us</h1>
+
+<div class="row">
+  <div class="col-md-6 col-md-offset-3">
+    <%= form_for(@message, url: contact_path) do |f| %>
+      <% if @message.errors.any? %>
+        <div id="error_explanation">
+          <div class="alert alert-danger">
+            The form contains <%= pluralize(@message.errors.count, "error") %>.
+        </div>
+        <ul>
+      <% @message.errors.full_messages.each do |msg| %>
+        <li><%= msg %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <body>
+    <div class="container">
+      <div class="pull-left">
+      <div class="col-md-12" style="margin:8px">
+        <contact class="contact">
+        <b>Mobile:</b> &nbsp;
+
+        <a href="mob:+91-9911183431">Aradhya Shandilya - +91 - 9911183431</a></br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mob:+91-9718138011">Akash Agrawal - +91 - 9718138011</a></br>
+
+
+        <br/>
+        <b>Email:</b> <a href="mailto:teamraftaar@dtu.ac.in">teamraftaar@dtu.ac.in</a>
+        <br/>
+        <br/>
+        <b>Faculty Advisor : </b><br/>
+        Dr. Rajesh Kumar<br/>
+          Department of Mechanical, Production and Automobile Engineering<br/>
+          Delhi Technological University<br/>
+          Shahbad Daulatpur, Delhi-110042<br/>
+          Mob :   <a href="mob:++91-8750632739">+91-8750632739</a><br/>
+          Email : <a href="mailto:dr.rajeshmits@gmail.com">dr.rajeshmits@gmail.com</a><br/>
+        </contact>
+      </div>
+      </div>
+     </div>
+     </br>
+     <p><em>Leave a message below and we will respond shortly.</em></p></br>
+      <%= f.label :name %>
+      <%= f.text_field :name, class: 'form-control' %>
+
+      <%= f.label :email %>
+      <%= f.email_field :email, class: 'form-control' %>
+
+      <%= f.label :subject %>
+      <%= f.text_field :subject, class: 'form-control' %>
+
+      <%= f.label :content, "Message" %>
+      <%= f.text_area :content, :rows => "5", class: 'form-control' %>
+
+      <%= f.submit "Send Message", class: "btn btn-primary" %>
+    <% end %>
+</div>
+</div>
+</body>
