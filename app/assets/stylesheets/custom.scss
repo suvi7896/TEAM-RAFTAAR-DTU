@@ -81,9 +81,15 @@ p {
   background-color: #5ddadc;
   border-radius: 8px;
 margin: 1px;
-  width: 33%;
+  width: 33%;}
 
-}
+  @media screen and (max-width: 420px) {
+    .ab {
+      width: 100%;
+    }
+  }
+
+
 
 .don{
   margin-top: 10px;
