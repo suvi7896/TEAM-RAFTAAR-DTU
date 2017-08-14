@@ -2,9 +2,131 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d29faa4-45ca-4462-96e0-1ab30087b24e" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Gemfile.lock.BACKUP.10513.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Gemfile.lock.BASE.10513.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Gemfile.lock.LOCAL.10513.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Gemfile.lock.REMOTE.10513.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/Gemfile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/Gemfile.lock" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/Rakefile" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/app/assets/config/manifest.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/app/assets/documents/corporate brochure 2016-17.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/app/assets/images/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/app/assets/images/BTWIN2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/app/assets/images/Decathlon_Logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/app/assets/images/asme-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/app/assets/images/atcon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/app/assets/images/borderpic.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/app/assets/images/fir_logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/app/assets/images/freechildcare.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/app/assets/images/krystal.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/app/assets/images/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/app/assets/images/rafav.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/app/assets/images/rafci.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/app/assets/images/rafint.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/app/assets/images/raft.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/app/assets/images/team.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/app/assets/images/vactech.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/app/assets/javascripts/application.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/app/assets/javascripts/cable.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/app/assets/javascripts/channels/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/app/assets/javascripts/messages.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/app/assets/javascripts/static_pages.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/app/assets/stylesheets/application.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/app/assets/stylesheets/custom.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/app/assets/stylesheets/messages.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/app/assets/stylesheets/static_pages.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/app/channels/application_cable/channel.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/app/channels/application_cable/connection.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/app/controllers/application_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/app/controllers/concerns/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/app/controllers/messages_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/app/controllers/static_pages_controller.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/app/helpers/application_helper.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/app/helpers/messages_helper.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/app/helpers/static_pages_helper.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/app/jobs/application_job.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/app/mailers/application_mailer.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/app/mailers/message_mailer.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/app/models/application_record.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/app/models/concerns/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/app/models/message.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/app/views/layouts/_footer.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/app/views/layouts/_header.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/app/views/layouts/_shim.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/app/views/layouts/application.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/app/views/layouts/mailer.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/app/views/layouts/mailer.text.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/app/views/messages/new.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/app/views/static_pages/about.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/app/views/static_pages/contact.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/app/views/static_pages/forms.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/app/views/static_pages/home.html.erb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/bin/bundle" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/bin/rails" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/bin/rake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/bin/setup" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/bin/spring" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/bin/update" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/config.ru" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/config/application.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/config/boot.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/config/cable.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/config/database.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/config/environment.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/config/environments/development.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/config/environments/production.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/config/environments/test.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/config/initializers/application_controller_renderer.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/config/initializers/assets.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/config/initializers/backtrace_silencers.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/config/initializers/cookies_serializer.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/config/initializers/filter_parameter_logging.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/config/initializers/inflections.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/config/initializers/mime_types.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/config/initializers/new_framework_defaults.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/config/initializers/session_store.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/config/initializers/wrap_parameters.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/config/locales/en.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/config/puma.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/config/routes.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/config/secrets.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/config/spring.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/db/migrate/20161228082503_create_messages.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/db/schema.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/db/seeds.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/lib/assets/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/lib/tasks/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/log/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/public/404.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/public/422.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/public/500.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/public/apple-touch-icon-precomposed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/public/apple-touch-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/public/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/public/robots.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/test/controllers/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/test/controllers/messages_controller_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/test/controllers/static_pages_controller_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/test/fixtures/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/test/fixtures/files/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/test/fixtures/messages.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/test/helpers/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/test/integration/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/test/integration/send_message_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/test/integration/site_layout_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/test/mailers/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/test/mailers/message_mailer_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/test/mailers/previews/message_mailer_preview.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/test/models/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/test/models/message_test.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/test/test_helper.rb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/tmp/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/vendor/assets/javascripts/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/views/messages/vendor/assets/stylesheets/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/new.html.erb" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/messages/new.html.erb" afterPath="$PROJECT_DIR$/app/views/messages/new.html.erb" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -41,38 +163,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="new.html.erb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/messages/new.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="27" column="172" lean-forward="false" selection-start-line="27" selection-start-column="172" selection-end-line="27" selection-end-column="172" />
-              <folding>
-                <element signature="e#795#801#0#HTML" expanded="true" />
-                <element signature="e#801#807#0#HTML" expanded="true" />
-                <element signature="e#807#813#0#HTML" expanded="true" />
-                <element signature="e#813#819#0#HTML" expanded="true" />
-                <element signature="e#819#825#0#HTML" expanded="true" />
-                <element signature="e#825#831#0#HTML" expanded="true" />
-                <element signature="e#831#837#0#HTML" expanded="true" />
-                <element signature="e#837#843#0#HTML" expanded="true" />
-                <element signature="e#843#849#0#HTML" expanded="true" />
-                <element signature="e#849#855#0#HTML" expanded="true" />
-                <element signature="e#855#861#0#HTML" expanded="true" />
-                <element signature="e#861#867#0#HTML" expanded="true" />
-                <element signature="e#867#873#0#HTML" expanded="true" />
-                <element signature="e#873#879#0#HTML" expanded="true" />
-                <element signature="e#879#885#0#HTML" expanded="true" />
-                <element signature="e#885#891#0#HTML" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="application.html.erb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="18">
-              <caret line="1" column="6" lean-forward="true" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+              <caret line="1" column="6" lean-forward="false" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -111,7 +206,7 @@
       <file leaf-file-name="Gemfile.lock" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gemfile.lock">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="649">
+            <state relative-caret-position="4032">
               <caret line="224" column="0" lean-forward="false" selection-start-line="224" selection-start-column="0" selection-end-line="224" selection-end-column="0" />
               <folding />
             </state>
@@ -138,10 +233,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="65" />
-    <option name="y" value="-4" />
-    <option name="width" value="1301" />
-    <option name="height" value="772" />
+    <option name="x" value="64" />
+    <option name="y" value="-11" />
+    <option name="width" value="1303" />
+    <option name="height" value="780" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -160,8 +255,8 @@
     </navigator>
     <panes>
       <pane id="RailsProjectView" />
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -211,10 +306,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="messages" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -488,6 +579,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -530,17 +627,18 @@
       <updated>1495815533411</updated>
       <workItem from="1495815549389" duration="785000" />
       <workItem from="1502609324331" duration="1649000" />
+      <workItem from="1502717641845" duration="45000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6850000" />
+    <option name="totallyTimeSpent" value="8209000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
+    <frame x="64" y="-11" width="1303" height="780" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25338647" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25737053" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -551,23 +649,13 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32868218" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25338647" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -597,28 +685,66 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/static_pages/about.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/static_pages/forms.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4032">
+          <caret line="224" column="0" lean-forward="false" selection-start-line="224" selection-start-column="0" selection-end-line="224" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="6" lean-forward="false" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/messages_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/static_pages/contact.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/messages/new.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#795#801#0#HTML" expanded="true" />
-            <element signature="e#801#807#0#HTML" expanded="true" />
-            <element signature="e#807#813#0#HTML" expanded="true" />
-            <element signature="e#813#819#0#HTML" expanded="true" />
-            <element signature="e#819#825#0#HTML" expanded="true" />
-            <element signature="e#825#831#0#HTML" expanded="true" />
-            <element signature="e#831#837#0#HTML" expanded="true" />
-            <element signature="e#837#843#0#HTML" expanded="true" />
-            <element signature="e#843#849#0#HTML" expanded="true" />
-            <element signature="e#849#855#0#HTML" expanded="true" />
-            <element signature="e#855#861#0#HTML" expanded="true" />
-            <element signature="e#861#867#0#HTML" expanded="true" />
-            <element signature="e#867#873#0#HTML" expanded="true" />
-            <element signature="e#873#879#0#HTML" expanded="true" />
-            <element signature="e#879#885#0#HTML" expanded="true" />
-            <element signature="e#885#891#0#HTML" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -642,24 +768,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding>
-            <element signature="e#795#801#0#HTML" expanded="true" />
-            <element signature="e#801#807#0#HTML" expanded="true" />
-            <element signature="e#807#813#0#HTML" expanded="true" />
-            <element signature="e#813#819#0#HTML" expanded="true" />
-            <element signature="e#819#825#0#HTML" expanded="true" />
-            <element signature="e#825#831#0#HTML" expanded="true" />
-            <element signature="e#831#837#0#HTML" expanded="true" />
-            <element signature="e#837#843#0#HTML" expanded="true" />
-            <element signature="e#843#849#0#HTML" expanded="true" />
-            <element signature="e#849#855#0#HTML" expanded="true" />
-            <element signature="e#855#861#0#HTML" expanded="true" />
-            <element signature="e#861#867#0#HTML" expanded="true" />
-            <element signature="e#867#873#0#HTML" expanded="true" />
-            <element signature="e#873#879#0#HTML" expanded="true" />
-            <element signature="e#879#885#0#HTML" expanded="true" />
-            <element signature="e#885#891#0#HTML" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -673,7 +781,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile.lock">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="649">
+        <state relative-caret-position="4032">
           <caret line="224" column="0" lean-forward="false" selection-start-line="224" selection-start-column="0" selection-end-line="224" selection-end-column="0" />
           <folding />
         </state>
@@ -699,24 +807,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#795#801#0#HTML" expanded="true" />
-            <element signature="e#801#807#0#HTML" expanded="true" />
-            <element signature="e#807#813#0#HTML" expanded="true" />
-            <element signature="e#813#819#0#HTML" expanded="true" />
-            <element signature="e#819#825#0#HTML" expanded="true" />
-            <element signature="e#825#831#0#HTML" expanded="true" />
-            <element signature="e#831#837#0#HTML" expanded="true" />
-            <element signature="e#837#843#0#HTML" expanded="true" />
-            <element signature="e#843#849#0#HTML" expanded="true" />
-            <element signature="e#849#855#0#HTML" expanded="true" />
-            <element signature="e#855#861#0#HTML" expanded="true" />
-            <element signature="e#861#867#0#HTML" expanded="true" />
-            <element signature="e#867#873#0#HTML" expanded="true" />
-            <element signature="e#873#879#0#HTML" expanded="true" />
-            <element signature="e#879#885#0#HTML" expanded="true" />
-            <element signature="e#885#891#0#HTML" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -740,7 +830,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -772,9 +861,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#footer#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -782,31 +868,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="338">
           <caret line="27" column="172" lean-forward="false" selection-start-line="27" selection-start-column="172" selection-end-line="27" selection-end-column="172" />
-          <folding>
-            <element signature="e#795#801#0#HTML" expanded="true" />
-            <element signature="e#801#807#0#HTML" expanded="true" />
-            <element signature="e#807#813#0#HTML" expanded="true" />
-            <element signature="e#813#819#0#HTML" expanded="true" />
-            <element signature="e#819#825#0#HTML" expanded="true" />
-            <element signature="e#825#831#0#HTML" expanded="true" />
-            <element signature="e#831#837#0#HTML" expanded="true" />
-            <element signature="e#837#843#0#HTML" expanded="true" />
-            <element signature="e#843#849#0#HTML" expanded="true" />
-            <element signature="e#849#855#0#HTML" expanded="true" />
-            <element signature="e#855#861#0#HTML" expanded="true" />
-            <element signature="e#861#867#0#HTML" expanded="true" />
-            <element signature="e#867#873#0#HTML" expanded="true" />
-            <element signature="e#873#879#0#HTML" expanded="true" />
-            <element signature="e#879#885#0#HTML" expanded="true" />
-            <element signature="e#885#891#0#HTML" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/new.html.erb" />
     <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
-          <caret line="1" column="6" lean-forward="true" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+          <caret line="1" column="6" lean-forward="false" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
           <folding />
         </state>
       </provider>
