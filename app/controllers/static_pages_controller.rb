@@ -5,7 +5,7 @@ class StaticPagesController < ApplicationController
   def contact
   end
 
-  def forms
+  def sponsors
   end
 
   def about
