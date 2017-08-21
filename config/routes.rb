@@ -1,5 +1,4 @@
-match "*path" => redirect("https://www.teamraftaar.com/%{path}"), :constraints => { :protocol => "http://" }
-match "*path" => redirect("https://www.teamraftaar.com/%{path}"), :constraints => { :subdomain => "" }
+
 
 
 Rails.application.routes.draw do
