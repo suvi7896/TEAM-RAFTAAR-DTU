@@ -271,11 +271,24 @@ margin: 1px;
 .timeline-title {
   margin-top: 0;
   color: inherit;
+
+}
+
+@media screen and (max-width: 420px) {
+  .timeline-title {
+    font-size: 3.5vw;
+  }
 }
 
 .timeline-body > p,
 .timeline-body > ul {
   margin-bottom: 0;
+}
+
+@media screen and (max-width: 420px) {
+  .timeline-body {
+    font-size: 2.5vw;
+  }
 }
 
 .timeline-body > p + p {
@@ -399,7 +412,6 @@ input {
     font-weight: normal;
   }
 }
-
 
 .scro{
   overflow-x: hidden;
