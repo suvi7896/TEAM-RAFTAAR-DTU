@@ -277,6 +277,7 @@ margin: 1px;
 @media screen and (max-width: 420px) {
   .timeline-title {
     font-size: 4.25vw;
+    padding: 0;
   }
 }
 
@@ -287,8 +288,12 @@ margin: 1px;
 
 @media screen and (max-width: 420px) {
   .timeline-body {
-    font-size: 3vw;
+    font-size: 5vw;
   }
+  .timeline-body > ul {
+    padding: 4px;
+  }
+
 }
 
 .timeline-body > p + p {
