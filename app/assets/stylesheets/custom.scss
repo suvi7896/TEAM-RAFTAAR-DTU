@@ -392,9 +392,16 @@ footer {
   }
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 375px) and (min-width: 320px) {
+  .footul{
+    padding:0px;
+  }
+}
+
+@media screen and (max-width: 480px) and (min-width: 376px) {
   .fooul{
     padding:0px;
+    margin-left: 60px;
   }
 }
 
