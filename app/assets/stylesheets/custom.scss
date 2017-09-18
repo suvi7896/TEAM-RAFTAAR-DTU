@@ -396,13 +396,22 @@ footer {
   .footul{
     padding:0px;
   }
+
 }
+
+@media screen and (max-width: 640px)  {
+  .footli {
+    margin-left: 70px;
+  }
+}
+
 
 @media screen and (max-width: 640px) and (min-width: 376px) {
   .fooul{
     padding:0px;
     margin-left:60px;
   }
+
 }
 
 /* contact */
