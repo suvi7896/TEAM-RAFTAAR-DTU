@@ -91,7 +91,7 @@ margin: 1px;
 
 @media only screen and (orientation:landscape){
 
-  .ab,.footer {
+  .ab {
 
     -webkit-transform: rotate(0deg);
 
@@ -392,6 +392,12 @@ footer {
   }
 }
 
+@media screen and (max-width: 480px) {
+  .fooul{
+    padding:0px;
+  }
+}
+
 /* contact */
 
 contact {
@@ -447,5 +453,6 @@ input {
 .scro{
   overflow-x: hidden;
 }
+
 
 
