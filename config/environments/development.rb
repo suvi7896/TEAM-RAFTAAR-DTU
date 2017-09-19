@@ -9,9 +9,10 @@ Rails.application.configure do
   # Do not eager load code on boot.
   config.eager_load = false
 
-  config.web_console.whitelisted_ips = ' 59.177.137.239'
-
-
+  class Application < Rails::Application
+    config.web_console.whitelisted_ips = '59.177.137.239'
+  end
+  
   config.action_mailer.default_url_options = { :host => 'localhost:3000' }
 
   config.action_mailer.raise_delivery_errors = true
