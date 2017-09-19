@@ -5,7 +5,8 @@ class MessagesController < ApplicationController
   end
 
   def create 
-    @message = Message.new(message_params)  
+    @message = Message.new(message_params)
+
 
     if @message.valid?
       MessageMailer.send_message(@message).deliver_now
