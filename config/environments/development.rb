@@ -9,8 +9,44 @@ Rails.application.configure do
   # Do not eager load code on boot.
   config.eager_load = false
 
+  config.action_mailer.default_url_options = { :host => 'localhost:3000' }
+
+  config.action_mailer.raise_delivery_errors = true
+
+  config.action_mailer.perform_deliveries = true
+
+  config.action_mailer.default :charset => "utf-8"
+
+  config.action_mailer.delivery_method = :smtp
+
   # Show full error reports.
   config.consider_all_requests_local = true
+
+  #ActionMailer::Base.delivery_method = :smtp
+  #ActionMailer::Base.smtp_settings = {
+    #  :address => "localhost",
+     # :port => 1025,
+     # :domain => "everydayrails.com" }
+
+  #ActionMailer::Base.smtp_settings = {
+   #   address:“smtp.gmail.com”,
+    #  port: 587,
+     # domain: ENV[“GMAIL_DOMAIN”],
+     # authentication: “plain”,
+     # enable_starttls_auto: true,
+     # user_name: ENV[“GMAIL_USERNAME”],
+     # password: ENV[“GMAIL_PASSWORD”]
+  #}
+
+  config.action_mailer.smtp_settings = {
+      address: "smtp.gmail.com",
+      port: 25,
+      domain: "example.com",
+      authentication: "plain",
+      enable_starttls_auto: true,
+      user_name:"teamraftaar@dtu.ac.in",
+      password: "teamraftaar1"
+  }
 
   # Enable/disable caching. By default caching is disabled.
   if Rails.root.join('tmp/caching-dev.txt').exist?
@@ -26,8 +62,10 @@ Rails.application.configure do
     config.cache_store = :null_store
   end
 
+
+
   # Don't care if the mailer can't send.
-  config.action_mailer.raise_delivery_errors = false
+  #config.action_mailer.raise_delivery_errors = false
 
   config.action_mailer.perform_caching = false
 
