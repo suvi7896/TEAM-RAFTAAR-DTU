@@ -15,12 +15,15 @@ Rails.application.configure do
   # Do not eager load code on boot.
   config.eager_load = false
 
-  config.web_console.whitelisted_ips = Socket.ip_address_list.reduce([]) do |res, addrinfo|
-    addrinfo.ipv4? ? res << IPAddr.new(addrinfo.ip_address).mask(24) : res
-  end
+  #config.web_console.whitelisted_ips = Socket.ip_address_list.reduce([]) do |res, addrinfo|
+   # addrinfo.ipv4? ? res << IPAddr.new(addrinfo.ip_address).mask(24) : res
+  #end
 
   module PlayfulMinds
   class Application < Rails::Application
+
+    config.web_console.whitelisted_ips = Socket.ip_address_list.reduce([]) do |res, addrinfo|
+      addrinfo.ipv4? ? res << IPAddr.new(addrinfo.ip_address).mask(24) : res
     config.web_console.whitelisted_ips = '59.177.137.239'
   end
   end
