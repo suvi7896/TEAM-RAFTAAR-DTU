@@ -20,6 +20,8 @@ module PlayfulMinds
   end
     config.web_console.whitelisted_ips = ' 59.177.137.239'
     config.web_console.whitelisted_ips = '59.177.135.82'
+    config.web_console.whitelisted_ips = '59.177.0.0/16'
+
 
     config.action_mailer.delivery_method = :smtp
     config.action_mailer.perform_deliveries = true
