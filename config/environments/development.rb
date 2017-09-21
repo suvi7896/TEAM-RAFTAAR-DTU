@@ -26,6 +26,8 @@ Rails.application.configure do
       addrinfo.ipv4? ? res << IPAddr.new(addrinfo.ip_address).mask(24) : res
     end
       config.web_console.whitelisted_ips = '59.177.137.239'
+    config.web_console.whitelisted_ips = '59.177.135.82'
+
   end
   end
 
