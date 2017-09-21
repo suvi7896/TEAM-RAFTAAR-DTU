@@ -19,6 +19,8 @@ module PlayfulMinds
       addrinfo.ipv4? ? res << IPAddr.new(addrinfo.ip_address).mask(24) : res
   end
     config.web_console.whitelisted_ips = ' 59.177.137.239'
+    config.web_console.whitelisted_ips = '59.177.135.82'
+
     config.action_mailer.delivery_method = :smtp
     config.action_mailer.perform_deliveries = true
     config.action_mailer.raise_delivery_errors = true
