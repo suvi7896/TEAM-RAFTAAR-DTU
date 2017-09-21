@@ -69,7 +69,7 @@ Rails.application.configure do
       authentication: "plain",
       enable_starttls_auto: true,
       user_name:"teamraftaar@dtu.ac.in",
-      password: "teamraftaar1"
+      password: "donotspreadbakch0di"
   }
 
   # Enable/disable caching. By default caching is disabled.
